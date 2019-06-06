@@ -1,0 +1,161 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="lunatic.com" resolutions="1x" timestamp="1559313491724">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="b.css" crc="4268121659" ref="b"/>
+    <file name="cientani_o.css" crc="183088904" ref="cientaniño"/>
+    <file name="principalni_a.css" crc="4093056679" ref="principalniña"/>
+    <file name="perf.css" crc="225016633" ref="perf"/>
+    <file name="cientani_a.css" crc="476973428" ref="cientaniña"/>
+    <file name="principalni_o.css" crc="111232766" ref="principalniño"/>
+    <file name="1.css" crc="4160650404" ref="1"/>
+    <file name="astroni_a.css" crc="3923098546" ref="astroniña"/>
+    <file name="princesani_o.css" crc="230832273" ref="princesaniño"/>
+    <file name="2.css" crc="278895513" ref="2"/>
+    <file name="astroni_o.css" crc="327279575" ref="astroniño"/>
+    <file name="buhoani_o.css" crc="4285473476" ref="buhoaniño"/>
+    <file name="3.css" crc="358560216" ref="3"/>
+    <file name="marcianoni_o.css" crc="525197158" ref="marcianoniño"/>
+    <file name="index.css" crc="385362889" ref="index"/>
+    <file name="buhoani_a.css" crc="247912332" ref="buhoaniña"/>
+    <file name="4.css" crc="385239965" ref="4"/>
+    <file name="c1.css" crc="3763835760" ref="c1"/>
+    <file name="marcianoni_a.css" crc="3854406905" ref="marcianoniña"/>
+    <file name="5.css" crc="190077084" ref="5"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:c1:b:perf:1:2:3:4:5:principalniña:principalniño:princesaniño:buhoaniño:buhoaniña:marcianoniña:cientaniño:cientaniña:astroniña:astroniño:marcianoniño"/>
+    <file name="museutils.js" crc="163421577" ref="index:c1:b:perf:1:2:3:4:5:principalniña:principalniño:princesaniño:buhoaniño:buhoaniña:marcianoniña:cientaniño:cientaniña:astroniña:astroniño:marcianoniño"/>
+    <file name="whatinput.js" crc="86476730" ref="index:c1:b:perf:1:2:3:4:5:principalniña:principalniño:princesaniño:buhoaniño:buhoaniña:marcianoniña:cientaniño:cientaniña:astroniña:astroniño:marcianoniño"/>
+    <file name="museconfig.js" crc="168988563" ref="index:c1:b:perf:1:2:3:4:5:principalniña:principalniño:princesaniño:buhoaniño:buhoaniña:marcianoniña:cientaniño:cientaniña:astroniña:astroniño:marcianoniño"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:c1:b:perf:1:2:3:4:5:principalniña:principalniño:princesaniño:buhoaniño:buhoaniña:marcianoniña:cientaniño:cientaniña:astroniña:astroniño:marcianoniño"/>
+    <file name="require.js" crc="244322403" ref="index:c1:b:perf:1:2:3:4:5:principalniña:principalniño:princesaniño:buhoaniño:buhoaniña:marcianoniña:cientaniño:cientaniña:astroniña:astroniño:marcianoniño"/>
+    <file name="webpro.js" crc="3848665353" ref="princesaniño:buhoaniño:buhoaniña:marcianoniña:cientaniño:cientaniña:astroniña:astroniño:marcianoniño"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="princesaniño:buhoaniño:buhoaniña:marcianoniña:cientaniño:cientaniña:astroniña:astroniño:marcianoniño"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="princesaniño:buhoaniño:buhoaniña:marcianoniña:cientaniño:cientaniña:astroniña:astroniño:marcianoniño"/>
+    <file name="touchswipe.js" crc="404375771" ref="princesaniño:buhoaniño:buhoaniña:marcianoniña:cientaniño:cientaniña:astroniña:astroniño:marcianoniño"/>
+  </folder>
+  <folder name="images">
+    <file name="fondoniño.jpg" crc="4274988058" seo="true" ref="index"/>
+    <file name="inicio1.png" crc="202313929" ref="index:c1:b"/>
+    <file name="iniciar-2.png" crc="4076115782" ref="index:c1:b"/>
+    <file name="nombre.png" crc="321107599" ref="index:c1:b:perf:principalniña:principalniño"/>
+    <file name="nombre2.png" crc="39575510" ref="index:c1:b:perf"/>
+    <file name="amr2.png" crc="3969069646" ref="index:c1:b:perf"/>
+    <file name="estramarilla.png" crc="109621404" ref="index:c1:b:perf"/>
+    <file name="b1.png" crc="3953788888" ref="index:c1:b:perf"/>
+    <file name="b2.png" crc="420714040" ref="index:c1:b:perf"/>
+    <file name="a1.png" crc="3876545015" ref="index:c1:b:perf"/>
+    <file name="a2.png" crc="49991141" ref="index:c1:b:perf"/>
+    <file name="p1.png" crc="340471395" ref="index:c1:b"/>
+    <file name="p2.png" crc="343458140" ref="index:c1:b"/>
+    <file name="pl1.png" crc="375370880" ref="index:c1:b"/>
+    <file name="pl.png" crc="287199010" ref="index:c1:b"/>
+    <file name="pr.png" crc="456678203" ref="index:c1:b"/>
+    <file name="pr1.png" crc="516480200" ref="index:c1:b"/>
+    <file name="pn1.png" crc="160646554" ref="index:c1:b"/>
+    <file name="pn2.png" crc="4044728706" ref="index:c1:b"/>
+    <file name="luna.png" crc="313580075" ref="index:c1:b"/>
+    <file name="granluna.png" crc="4113413291" ref="index:c1:b"/>
+    <file name="fondoniño2.jpg" crc="3973225753" seo="true" ref="c1"/>
+    <file name="fondoniño3.jpg" crc="480676276" ref="b:princesaniño"/>
+    <file name="inicito.jpg" crc="4293131787" ref="perf:1:2:3:4:5:principalniña:principalniño:princesaniño:buhoaniño:buhoaniña:marcianoniña:cientaniño:cientaniña:astroniña:astroniño:marcianoniño"/>
+    <file name="niñita.jpg" crc="222349728" ref="perf:principalniña:principalniño:princesaniño:buhoaniño:buhoaniña:marcianoniña:cientaniño:cientaniña:astroniña:astroniño:marcianoniño"/>
+    <file name="niñito.jpg" crc="283342471" ref="perf:principalniña:principalniño:princesaniño:buhoaniño:buhoaniña:marcianoniña:cientaniño:cientaniña:astroniña:astroniño:marcianoniño"/>
+    <file name="fondoniño.jpg" crc="4274988058" seo="true" ref="perf"/>
+    <file name="niñap.png" crc="326649796" ref="perf"/>
+    <file name="niñag.png" crc="434519503" ref="perf"/>
+    <file name="niñop.png" crc="462513682" ref="perf"/>
+    <file name="niñog.png" crc="238609766" ref="perf"/>
+    <file name="fv1.jpg" crc="325599675" ref="1:3"/>
+    <file name="saritha.png" crc="4253037972" ref="1"/>
+    <file name="saritharos.png" crc="351999658" ref="1"/>
+    <file name="grandosima2.png" crc="4078169902" ref="1"/>
+    <file name="niñagrandisima.png" crc="4103779508" ref="1"/>
+    <file name="2estelar.jpg" crc="4260820574" ref="2"/>
+    <file name="cam.png" crc="4092411625" ref="2"/>
+    <file name="came.png" crc="301354853" ref="2"/>
+    <file name="astrpeq.png" crc="260274391" ref="2"/>
+    <file name="astrpegrande.png" crc="294502341" ref="2"/>
+    <file name="buhito.png" crc="3850226957" ref="3"/>
+    <file name="buhitoy.png" crc="515743522" ref="3"/>
+    <file name="buhop.png" crc="379062789" ref="3"/>
+    <file name="buhograndote.png" crc="4168818979" ref="3"/>
+    <file name="fondfede.jpg" crc="3972183690" ref="4"/>
+    <file name="fede.png" crc="257755129" ref="4"/>
+    <file name="fede2.png" crc="4174021235" ref="4"/>
+    <file name="cientp.png" crc="4243390606" ref="4"/>
+    <file name="cientg.png" crc="169880387" ref="4"/>
+    <file name="fondluna.jpg" crc="4052933103" ref="5"/>
+    <file name="pedrito.png" crc="4031280856" ref="5"/>
+    <file name="pedritove.png" crc="288219785" ref="5"/>
+    <file name="marcianop.png" crc="3954191118" ref="5"/>
+    <file name="movimientos-personajes.png" crc="3976505348" ref="5"/>
+    <file name="indiceniña.png" crc="3992291690" ref="principalniña"/>
+    <file name="sc1.png" crc="3844563417" ref="principalniña:principalniño:cientaniño:cientaniña"/>
+    <file name="sc2.png" crc="3934937486" ref="principalniña:principalniño:cientaniño:cientaniña"/>
+    <file name="lunaticniña.png" crc="199430608" ref="principalniña"/>
+    <file name="bh1.png" crc="348558489" ref="principalniña:principalniño:buhoaniño:buhoaniña"/>
+    <file name="bh2.png" crc="531139665" ref="principalniña:principalniño:buhoaniño:buhoaniña"/>
+    <file name="nm1.png" crc="181481111" ref="principalniña:principalniño:princesaniño"/>
+    <file name="nm2.png" crc="4090577678" ref="principalniña:principalniño:princesaniño"/>
+    <file name="marciano1.png" crc="111159820" ref="principalniña:principalniño:marcianoniña:marcianoniño"/>
+    <file name="marciano-2.png" crc="236117496" ref="principalniña:principalniño:marcianoniña:marcianoniño"/>
+    <file name="astr1.png" crc="4222592189" ref="principalniña:principalniño:astroniña:astroniño"/>
+    <file name="ast11.png" crc="3963393607" ref="principalniña:principalniño:astroniña:astroniño"/>
+    <file name="indiceniño.png" crc="3785948561" ref="principalniño"/>
+    <file name="lazul.png" crc="67782095" ref="principalniño"/>
+    <file name="hsaritha.png" crc="470665516" ref="princesaniño"/>
+    <file name="1.png" crc="321460568" seo="true" ref="princesaniño"/>
+    <file name="blank.gif" crc="4208392903" ref="princesaniño:buhoaniño:buhoaniña:marcianoniña:cientaniño:cientaniña:astroniña:astroniño:marcianoniño"/>
+    <file name="2.png" crc="4082454610" seo="true" ref="princesaniño"/>
+    <file name="3.png" crc="317631331" seo="true" ref="princesaniño"/>
+    <file name="4.png" crc="3879435862" seo="true" ref="princesaniño"/>
+    <file name="loading.gif" crc="3815509949" ref="princesaniño:buhoaniño:buhoaniña:marcianoniña:cientaniño:cientaniña:astroniña:astroniño:marcianoniño"/>
+    <file name="fondoniño22.jpg" crc="3973225753" ref="buhoaniño:cientaniño:astroniño:marcianoniño"/>
+    <file name="hbuhito.png" crc="3852292266" ref="buhoaniño"/>
+    <file name="bh12.png" crc="4263485568" seo="true" ref="buhoaniño:buhoaniña"/>
+    <file name="bh22.png" crc="185431294" seo="true" ref="buhoaniño:buhoaniña"/>
+    <file name="bh3.png" crc="4132140694" seo="true" ref="buhoaniño:buhoaniña"/>
+    <file name="bh4.png" crc="4267626139" seo="true" ref="buhoaniño:buhoaniña"/>
+    <file name="fondoniño32.jpg" crc="480676276" ref="buhoaniña:marcianoniña:cientaniña:astroniña"/>
+    <file name="hbf.png" crc="298934438" ref="buhoaniña"/>
+    <file name="hpedritor.png" crc="296608082" ref="marcianoniña:marcianoniño"/>
+    <file name="mar1.png" crc="39373813" seo="true" ref="marcianoniña:marcianoniño"/>
+    <file name="mar2.png" crc="208256552" seo="true" ref="marcianoniña:marcianoniño"/>
+    <file name="pedritoh3.png" crc="249997897" seo="true" ref="marcianoniña:marcianoniño"/>
+    <file name="pedritoh41.png" crc="4133465911" seo="true" ref="marcianoniña:marcianoniño"/>
+    <file name="fedeama.png" crc="4167407610" ref="cientaniño"/>
+    <file name="c0.png" crc="3789320593" seo="true" ref="cientaniño:cientaniña"/>
+    <file name="c1.png" crc="3814870775" seo="true" ref="cientaniño:cientaniña"/>
+    <file name="pedritoh4.png" crc="475193242" seo="true" ref="cientaniño:cientaniña"/>
+    <file name="cient2.png" crc="4221051445" seo="true" ref="cientaniño:cientaniña"/>
+    <file name="hfedeniña.png" crc="3993679757" ref="cientaniña"/>
+    <file name="camilitafuc.png" crc="441936274" ref="astroniña"/>
+    <file name="astro1.png" crc="74790945" seo="true" ref="astroniña:astroniño"/>
+    <file name="astro2.png" crc="4057722203" seo="true" ref="astroniña:astroniño"/>
+    <file name="astro4.png" crc="3965674415" seo="true" ref="astroniña:astroniño"/>
+    <file name="astro3.png" crc="301414958" seo="true" ref="astroniña:astroniño"/>
+    <file name="camilitazul.png" crc="3839385255" ref="astroniño"/>
+    <file name="hpedritoazu.png" crc="3918834551" ref="marcianoniño"/>
+  </folder>
+  <file name="index.html" crc="4232695785" seo="true" mt="1559179411877" redirect="true"/>
+  <file name="c1.html" crc="3788976176" seo="true" mt="1559179411877" redirect="true"/>
+  <file name="b.html" crc="4289992814" seo="true" mt="1559179411877" redirect="true"/>
+  <file name="perf.html" crc="3807746527" seo="true" mt="1559179411877" redirect="true"/>
+  <file name="1.html" crc="510975738" seo="true" mt="1559179411877" redirect="true"/>
+  <file name="2.html" crc="533916364" seo="true" mt="1559179411877" redirect="true"/>
+  <file name="3.html" crc="377576032" seo="true" mt="1559179411877" redirect="true"/>
+  <file name="4.html" crc="518796220" seo="true" mt="1559179411877" redirect="true"/>
+  <file name="5.html" crc="311468287" seo="true" mt="1559179411877" redirect="true"/>
+  <file name="principalniña.html" crc="3792693612" seo="true" mt="1559179411877" redirect="true"/>
+  <file name="principalniño.html" crc="447391478" seo="true" mt="1559179411877" redirect="true"/>
+  <file name="princesaniño.html" crc="255901621" seo="true" mt="1559179411877" redirect="true"/>
+  <file name="buhoaniño.html" crc="4265320129" seo="true" mt="1559313327888" redirect="true"/>
+  <file name="buhoaniña.html" crc="170135430" seo="true" mt="1559313342692" redirect="true"/>
+  <file name="marcianoniña.html" crc="379384425" seo="true" mt="1559313353932" redirect="true"/>
+  <file name="cientaniño.html" crc="216034076" seo="true" mt="1559313314932" redirect="true"/>
+  <file name="cientaniña.html" crc="4078190779" seo="true" mt="1559313363180" redirect="true"/>
+  <file name="astroniña.html" crc="3883363190" seo="true" mt="1559313374726" redirect="true"/>
+  <file name="astroniño.html" crc="4164026657" seo="true" mt="1559313303391" redirect="true"/>
+  <file name="marcianoniño.html" crc="346513295" seo="true" mt="1559313288396" redirect="true"/>
+</manifest>
